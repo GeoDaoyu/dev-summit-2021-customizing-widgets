@@ -1,0 +1,12 @@
+#centerWidget {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  padding: 15px;
+  color: #2e2e2e;
+  background: rgba(255, 255, 255);
+  cursor: pointer;
+}
+#centerWidget p {
+  margin: 0;
+}

@@ -1,0 +1,10 @@
+.esri-widget--button {
+  background-color: orange;
+  color: green;
+  width: 64px;
+  height: 64px;
+}
+
+[class*=esri-icon] {
+  font-size: 32px;
+}
